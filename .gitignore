@@ -1,0 +1,25 @@
+# Virtual environment
+myenv/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Temporary project files
+.virtual_documents/
+
+# OS files
+.DS_Store
+Thumbs.db
