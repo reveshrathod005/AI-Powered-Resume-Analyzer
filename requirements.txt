@@ -3,7 +3,7 @@ langchain_community
 langchain-ollama
 matplotlib
 faiss-cpu
-sentence_transformer
+sentence_transformers
 langchain_huggingface
 pypdf
 langchain_google_genai
